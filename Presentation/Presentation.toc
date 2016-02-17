@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{A Snapshot of NYC}{6}{0}{2}
+\beamer@sectionintoc {3}{Popularity of Restaurants and Nightlife Venues}{15}{0}{3}
+\beamer@sectionintoc {4}{Future Directions}{22}{0}{4}
